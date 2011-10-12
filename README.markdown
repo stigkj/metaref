@@ -25,4 +25,4 @@ Initial TODOs
 * Have 2 web-apps talking to each other through Spring Integration
 * Add a batch that uses Spring Batch
 * Run under Spring tc server in development to use Spring Insight
-* Add library (what was it called?) for doing JMX-over-REST
+* Add Jolokia for doing JMX-over-REST
